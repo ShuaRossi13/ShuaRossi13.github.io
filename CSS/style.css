@@ -95,33 +95,33 @@ ul li a.selected{
 }
 
 .paragraph-title{
-    text-align: left;
     font-size: 32px;
     padding-left: 240px;
     padding-right: 240px;
     color: rgb(218, 190, 121);
     padding-top: 5px;
     padding-bottom: 5px;
+    text-align: left;
     font-weight: bold;
 }
 
 .paragraph{
-    text-align: left;
     font-size: 24px;
     padding-left: 240px;
     padding-right: 240px;
     padding-top: 5px;
     padding-bottom: 5px;
+    text-align: left;
     color: rgb(220, 196, 136);
 }
 
 .bullet{
-    text-align: left;
     font-size: 24px;
     padding-left: 290px;
     padding-right: 200px;
     padding-top: 5px;
     padding-bottom: 5px;
+    text-align: left;
     color: rgb(220, 196, 136);
 }
 
