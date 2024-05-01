@@ -98,10 +98,10 @@ ul li a.selected{
     font-size: 32px;
     padding-left: 240px;
     padding-right: 240px;
-    color: rgb(218, 190, 121);
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: left;
+    color: rgb(218, 190, 121);
     font-weight: bold;
 }
 
