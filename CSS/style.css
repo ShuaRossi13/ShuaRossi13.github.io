@@ -3,7 +3,7 @@
     padding: 0px;
     background-color: rgb(39, 39, 39);
     color: goldenrod;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;      
 }  
 
 ul
@@ -48,7 +48,7 @@ ul li a
 }
 
 ul li a.selected{
-    background-color: goldenrod;
+    background-color: rgb(219, 159, 7);
     color:rgb(19, 12, 1);
     font-weight: bolder;
     border-radius: 5px 5px 0px 0px;
@@ -94,11 +94,34 @@ ul li a.selected{
     margin: auto;
 }
 
+.paragraph-title{
+    text-align: left;
+    font-size: 32px;
+    padding-left: 240px;
+    padding-right: 240px;
+    color: rgb(218, 190, 121);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
 .paragraph{
     text-align: left;
-    font-size: 12px;
-    padding-left: 120px;
-    padding-right: 120px;
+    font-size: 24px;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(220, 196, 136);
+}
+
+.bullet{
+    text-align: left;
+    font-size: 24px;
+    padding-left: 290px;
+    padding-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     color: rgb(220, 196, 136);
 }
 
